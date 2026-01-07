@@ -2,7 +2,7 @@
 
 A professional enterprise dashboard for viewing, filtering, and executing UiPath Orchestrator processes with real-time status updates.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/swati354/uipath-oauth-5)
 
 ## Overview
 
@@ -144,7 +144,7 @@ src/
 
 ### Cloudflare Pages
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/swati354/uipath-oauth-5)
 
 **Manual Deployment:**
 
